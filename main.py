@@ -37,7 +37,7 @@ SESSIONS = [
 ACTIFS = {
     "XAU/USD": ("kraken", "XAUT/USD"),
     "EUR/USD": ("kraken", "EUR/USD"),
-    "US500": ("yfinance", "^GSPC"),
+    "US500":   ("yfinance", "^GSPC"),
 }
 
 PERF_FILE    = "performances_irr.json"
